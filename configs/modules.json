@@ -126,7 +126,7 @@
   },
   "Blink": {
     "State": false,
-    "KeyBind": 48,
+    "KeyBind": 0,
     "Array": true
   },
   "BlockESP": {
@@ -201,7 +201,7 @@
   },
   "Clip": {
     "State": false,
-    "KeyBind": 0,
+    "KeyBind": 21,
     "Array": true
   },
   "ComponentOnHover": {
@@ -276,7 +276,7 @@
   },
   "Fly": {
     "State": false,
-    "KeyBind": 0,
+    "KeyBind": 21,
     "Array": true
   },
   "ForceUnicodeChat": {
@@ -336,7 +336,7 @@
   },
   "HytPitFly": {
     "State": false,
-    "KeyBind": 34,
+    "KeyBind": 33,
     "Array": true
   },
   "HytSpeed": {
@@ -405,7 +405,7 @@
     "Array": true
   },
   "LagWarn": {
-    "State": true,
+    "State": false,
     "KeyBind": 0,
     "Array": false
   },
@@ -611,7 +611,7 @@
   },
   "Scaffold": {
     "State": false,
-    "KeyBind": 33,
+    "KeyBind": 0,
     "Array": true
   },
   "ServerCrasher": {
@@ -695,7 +695,7 @@
     "Array": true
   },
   "TeleportHit": {
-    "State": true,
+    "State": false,
     "KeyBind": 0,
     "Array": true
   },

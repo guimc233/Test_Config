@@ -3,7 +3,7 @@
     "open": true,
     "visible": true,
     "posX": 756,
-    "posY": 149,
+    "posY": 69,
     "Aimbot": {
       "Settings": false
     },
@@ -68,56 +68,11 @@
       "Settings": false
     }
   },
-  "Player": {
-    "open": true,
-    "visible": true,
-    "posX": 306,
-    "posY": 356,
-    "AntiAFK": {
-      "Settings": false
-    },
-    "AntiCactus": {
-      "Settings": false
-    },
-    "AutoRespawn": {
-      "Settings": false
-    },
-    "AutoTool": {
-      "Settings": false
-    },
-    "Blink": {
-      "Settings": false
-    },
-    "Eagle": {
-      "Settings": false
-    },
-    "FastUse": {
-      "Settings": false
-    },
-    "InventoryCleaner": {
-      "Settings": false
-    },
-    "KeepAlive": {
-      "Settings": false
-    },
-    "NoFall": {
-      "Settings": false
-    },
-    "Reach": {
-      "Settings": false
-    },
-    "Regen": {
-      "Settings": false
-    },
-    "Zoot": {
-      "Settings": false
-    }
-  },
   "Movement": {
     "open": true,
     "visible": true,
     "posX": 489,
-    "posY": 127,
+    "posY": 47,
     "AirJump": {
       "Settings": false
     },
@@ -219,7 +174,7 @@
     "open": true,
     "visible": true,
     "posX": 268,
-    "posY": 218,
+    "posY": 138,
     "AntiBlind": {
       "Settings": false
     },
@@ -315,7 +270,7 @@
     "open": true,
     "visible": true,
     "posX": 117,
-    "posY": 121,
+    "posY": 41,
     "AutoBreak": {
       "Settings": false
     },
@@ -363,7 +318,7 @@
     "open": true,
     "visible": true,
     "posX": 468,
-    "posY": 363,
+    "posY": 283,
     "AntiBot": {
       "Settings": false
     },
@@ -401,35 +356,11 @@
       "Settings": false
     }
   },
-  "Hyt": {
-    "open": true,
-    "visible": true,
-    "posX": 83,
-    "posY": 420,
-    "HytPitFly": {
-      "Settings": false
-    },
-    "HytSpeed": {
-      "Settings": false
-    },
-    "IQBooster": {
-      "Settings": false
-    },
-    "NoHurt": {
-      "Settings": false
-    }
-  },
-  "Targets": {
-    "open": true,
-    "visible": true,
-    "posX": 60,
-    "posY": 305
-  },
   "Exploit": {
     "open": true,
     "visible": true,
     "posX": 640,
-    "posY": 353,
+    "posY": 273,
     "AbortBreaking": {
       "Settings": false
     },
@@ -500,6 +431,75 @@
       "Settings": false
     },
     "Teleport": {
+      "Settings": false
+    }
+  },
+  "Hyt": {
+    "open": true,
+    "visible": true,
+    "posX": 83,
+    "posY": 340,
+    "HytPitFly": {
+      "Settings": false
+    },
+    "HytSpeed": {
+      "Settings": false
+    },
+    "IQBooster": {
+      "Settings": false
+    },
+    "NoHurt": {
+      "Settings": false
+    }
+  },
+  "Targets": {
+    "open": true,
+    "visible": true,
+    "posX": 60,
+    "posY": 225
+  },
+  "Player": {
+    "open": true,
+    "visible": true,
+    "posX": 306,
+    "posY": 276,
+    "AntiAFK": {
+      "Settings": false
+    },
+    "AntiCactus": {
+      "Settings": false
+    },
+    "AutoRespawn": {
+      "Settings": false
+    },
+    "AutoTool": {
+      "Settings": false
+    },
+    "Blink": {
+      "Settings": false
+    },
+    "Eagle": {
+      "Settings": false
+    },
+    "FastUse": {
+      "Settings": false
+    },
+    "InventoryCleaner": {
+      "Settings": false
+    },
+    "KeepAlive": {
+      "Settings": false
+    },
+    "NoFall": {
+      "Settings": false
+    },
+    "Reach": {
+      "Settings": false
+    },
+    "Regen": {
+      "Settings": false
+    },
+    "Zoot": {
       "Settings": false
     }
   }

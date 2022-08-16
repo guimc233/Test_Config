@@ -8,7 +8,7 @@
     "TargetDead": false
   },
   "features": {
-    "AntiForge": false,
+    "AntiForge": true,
     "AntiForgeFML": true,
     "AntiForgeProxy": true,
     "AntiForgePayloads": true,
@@ -137,8 +137,8 @@
     "NoWeatherValue": true
   },
   "Blink": {
-    "Pulse": false,
-    "PulseDelay": 1000
+    "Pulse": true,
+    "PulseDelay": 100
   },
   "BlockESP": {
     "Mode": "Box",
@@ -315,7 +315,7 @@
     "CustomTimer": 1.1
   },
   "Fly": {
-    "Mode": "KeepAlive",
+    "Mode": "Flag",
     "VanillaSpeed": 2.0,
     "VanillaKickBypass": true,
     "NCPMotion": 0.0,
