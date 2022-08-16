@@ -1,0 +1,8 @@
+DOWN	clickgui.json	http://res-test.guimc.ltd/configsclickgui.json
+DOWN	hud.json	http://res-test.guimc.ltd/configshud.json
+DOWN	modules.json	http://res-test.guimc.ltd/configsmodules.json
+DOWN	userbackground.png	http://res-test.guimc.ltd/configsuserbackground.png
+DOWN	values.json	http://res-test.guimc.ltd/configsvalues.json
+DOWN	xray-blocks.json	http://res-test.guimc.ltd/configsxray-blocks.json
+DOWN	fonts/Roboto-Medium.ttf	http://res-test.guimc.ltd/configsmisans.ttf
+PRINT	§7§k|§aGuGuXiluo§7§k|§r §6§lThis is just a §d§lTEST §6§lConfig!
